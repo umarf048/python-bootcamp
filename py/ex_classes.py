@@ -51,3 +51,4 @@ char1.attack(char2)
 
 # 3. Columbina heal sebab kena serang!
 char2.heal()
+# test untuk nak git push ngan pull
