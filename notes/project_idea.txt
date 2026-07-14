@@ -1,0 +1,8 @@
+ermm ak ingat nak buat solat tracker, dia mcm app yg clean , dan fungsi dia just buat tick waktu solat je utama, yg second ialah paparan waktu solat ,
+mungkin ak akan mengabaikan pasal noti masuk waktu, sbb app ni untuk org perbaiki waktu solat, bukan mcm app solat tuh, lebih ke
+produktiviti, mcm habit tracker just to check in je, maybe ak nak tambah kan fungsi tempat solat, mcm yg petronas pakai setel tuh,
+or tambah gambar selfie atau bukti, pastu dia akan graf lah, tapi sebenarnya agak susah kalau nak pikir logik permarkahan dia, 
+pasal kiranya cam dia bgi markah penuh kalau ko cek in solat dalam 30 pertama dan semakin lama waktu berlalu , semakin sikit markahnya,
+dan ak nak masukkan pasal qodo andai dia terlepas waktu, dia akan x cek in dalam tempoh waktu solat dia akan jdi qodo, dia akan msuk ke part hutang solat,
+dan hutang solat pon boleh cek in cek out, rekod kita punya baki solat, ak nak buat se clean yg mungkin xnak serabut2 more feature
+didnt mean more efficient, sometimes the less the better, tapi ak nak buat dalam bentuk app mobile je, sbb kalau guna laptop atau web dia akan jdi x productive
